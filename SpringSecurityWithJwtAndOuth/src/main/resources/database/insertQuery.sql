@@ -1,0 +1,3 @@
+INSERT INTO public.roles(name) VALUES ('ROLE_SUPER_ADMIN');
+INSERT INTO public.roles(name) VALUES ('ROLE_CLIENT_ADMIN');
+INSERT INTO public.roles(name) VALUES ('ROLE_CLIENT_USER');
